@@ -12,7 +12,7 @@
         display: flex;
     }
     .dice{
-        display: inline-block;
+/*         display: inline-block; */
         text-align: center;
         margin: 25px;
     }
